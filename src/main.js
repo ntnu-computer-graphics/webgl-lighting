@@ -1,5 +1,3 @@
-// LightedCube.js
-// Vertex Shader
 var VSHADER_SOURCE = `
 attribute vec4 a_Position;
 attribute vec4 a_Color;
